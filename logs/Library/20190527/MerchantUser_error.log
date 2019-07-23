@@ -1,0 +1,9 @@
+[1;31m [ERROR] [2019-05-27 15:19:48]127.0.0.1|4440 |errorMsg:branchStore 获取分店失败该店铺不是总店！,userMsg:该店铺不是总店！,line:2529[0m 
+[1;31m [ERROR] [2019-05-27 15:21:31]127.0.0.1|4440 |errorMsg:branchStore 获取分店失败该店铺不是总店！,userMsg:该店铺不是总店！,line:2529[0m 
+[1;31m [ERROR] [2019-05-27 15:25:00]127.0.0.1|4440 |errorMsg:branchStore 获取分店失败该店铺不是总店！,userMsg:该店铺不是总店！,line:2529[0m 
+[1;31m [ERROR] [2019-05-27 15:25:15]127.0.0.1|4440 |errorMsg:branchStore 获取分店失败该店铺不是总店！,userMsg:该店铺不是总店！,line:2529[0m 
+[1;31m [ERROR] [2019-05-27 15:27:54]127.0.0.1|4440 |errorMsg:branchStore 获取分店失败该店铺不是总店！,userMsg:该店铺不是总店！,line:2529[0m 
+[1;31m [ERROR] [2019-05-27 15:28:04]127.0.0.1|4440 |errorMsg:branchStore 获取分店失败该店铺不是总店！,userMsg:该店铺不是总店！,line:2529[0m 
+[1;31m [ERROR] [2019-05-27 16:32:26]127.0.0.1|4440 |errorMsg:更新浏览记录失败登录用户:183,reason:非法请求！,userMsg:未登录！,line:470[0m 
+[1;31m [ERROR] [2019-05-27 16:34:56]127.0.0.1|4440 |errorMsg:获取订单列表失败:183,reason:非法请求！,userMsg:非法请求！,line:470[0m 
+[1;31m [ERROR] [2019-05-27 16:48:22]127.0.0.1|4440 |errorMsg:获取订单列表失败:183,reason:非法请求！,userMsg:非法请求！,line:470[0m 

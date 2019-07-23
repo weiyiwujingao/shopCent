@@ -1,0 +1,2 @@
+[1;31m [ERROR] [2019-05-16 10:46:53]127.0.0.1|11544 |errorMsg:商户的商品类别获取有误reason:Undefined variable: city,userMsg:商品类别获取不成功！,line:472[0m 
+[1;31m [ERROR] [2019-05-16 10:46:56]127.0.0.1|11544 |errorMsg:商户的商品类别获取有误reason:Undefined variable: city,userMsg:商品类别获取不成功！,line:472[0m 

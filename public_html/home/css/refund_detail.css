@@ -1,0 +1,166 @@
+.refund_top {
+    background: #64A6FF;
+    padding: 8px 20px;
+    color: #fff;
+    line-height: 1.8;
+    font-size: 14px;
+}
+
+.refund_detail {
+    color: #444;
+    margin-top: 50px;
+    background: #eee;
+    padding-top: 8px;
+    padding-bottom: 70px;
+}
+
+a {
+    color: #64A6FF;
+}
+
+.refund_title {
+    background: #fff;
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.refund_title .lxmj {
+    text-align: right;
+    color: #64A6FF;
+}
+
+.refund_title .uname {
+    width: 80px;
+    color: #333;
+}
+
+.refund_title .utel {
+    color: #64A6FF;
+}
+
+.refund_title .address {
+    color: #aaa;
+    padding-top: 5px;
+}
+
+.refund_goods, .desc {
+    margin-top: 8px;
+    background: #fff;
+}
+
+.refund_goods .weui-article {
+    padding: 10px 20px;
+}
+
+.refund_goods .head {
+    font-size: 14px;
+    color: #aaa;
+}
+
+.refund_goods .c {
+    display: flex;
+    margin: 15px 0 24px 0;
+}
+
+.refund_goods .c .icon {
+    flex: 0 0 auto;
+    width: 54px;
+    height: 54px;
+    margin-right: 24px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.refund_goods .c .info {
+    flex: 1 1 auto;
+    line-height: 1.4;
+}
+
+.refund_goods .c .info * {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.refund_goods .c .info h5 {
+    color: #444
+}
+
+.refund_goods .c .info p {
+    color: #aaa
+}
+
+.refund_goods .c .last {
+    flex: 0 0 auto;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.refund_item .weui-flex {
+    height: 35px;
+}
+
+.refund_item .title {
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+}
+
+.refund_item .weui-flex__item {
+    text-align: right;
+    font-size: 14px;
+    color: #aaa;
+}
+
+.refund_item .weui-flex__item a {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.desc {
+    padding: 10px 20px;
+}
+
+.desc .weui-flex {
+    font-size: 14px;
+    color: #aaa;
+}
+
+.desc .title {
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+}
+
+.dfoot {
+    text-align: right;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 20px 0;
+    background: #fff;
+    border-top: 1px solid #eee;
+    box-shadow: 0 0 10px #e6e6e6;
+    max-width: 800px;
+}
+
+.dfoot span {
+    font-size: 14px;
+    padding: 8px 16px;
+    color: #fff;
+    border-radius: 9px;
+    background-color: #64A6FF;
+    margin-right: 30px;
+}
+
+.weui-tab__panel {
+    padding-bottom: 0 !important;
+}
+
+.copy {
+    display: inline-block;
+    width: 1.2rem;
+    height: 1.2rem;
+    background: url('/images/copy.png') center no-repeat;
+    background-size: 100%
+}

@@ -1,0 +1,190 @@
+.order_detail {
+    color: #444;
+    margin-top: 50px;
+    background: #fff;
+}
+
+.order_detail .head{
+    padding-bottom: 10px;
+}
+.order_detail .mername i{
+    color: #aaa;
+    font-size: 12px;
+}
+.order_detail .mername i.icon-icon_More{
+    font-weight: bold;
+}
+.order_detail .weui-article {
+    background: #fff;
+    padding: 10px 15px;
+    border-top: 8px #eee solid;
+}
+
+.order_detail .weui-flex .left {
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    overflow: hidden;
+}
+
+.order_detail .weui-flex .left img {
+    width: 80%;
+    background: #eee;
+}
+
+.order_detail .weui-flex .title {
+    font-size: 0.8rem;
+}
+
+.order_detail .taste {
+    font-size: 0.8rem;
+    color: #aaa;
+}
+
+.order_detail .weui-flex .right {
+    text-align: right;
+    padding-left: 10px;
+}
+
+.order_detail .weui-flex .number {
+    font-style: normal;
+    font-size: 0.8rem;
+    color: #aaa;
+}
+
+.order_detail .weui-flex .right strong {
+    display: block;
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+    padding-bottom: 10px;
+}
+
+.order_detail .item {
+    padding: 8px 0;
+}
+
+.order_detail .foot {
+    text-align: right;
+    padding: 10px 20px;
+    color: #64A6FF;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.order_detail .weui-cells {
+    margin-top: 0;
+}
+
+.order_detail .weui-label {
+    font-size: 1rem;
+    color: #333;
+}
+
+.order_detail .weui-cell__bd {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.get_mess {
+    background: #fff;
+    margin-top: 8px;
+}
+
+.get_mess .weui-cells {
+    margin-top: 8px;
+}
+
+.get_mess .qhbx {
+    padding: 10px 15px;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.err_msg {
+    color: #aaa;
+}
+
+.express-list {
+    margin-left: 15px;
+}
+
+.express-list li {
+    border-bottom: 1px dashed #ccc;
+    margin-bottom: 6px;
+}
+
+.link {
+    position: relative;
+}
+
+.link a {
+    color: #64A6FF;
+}
+
+.link span {
+    position: absolute;
+    right: 0;
+    font-size: 0.8rem;
+}
+
+.copy {
+    display: inline-block;
+    width: 1.2rem;
+    height: 1.2rem;
+    background: url('/images/copy.png') center no-repeat;
+    background-size: 100%;
+}
+
+.order_item {
+    padding: 20px;
+}
+
+.order_item .weui-flex {
+    height: 35px;
+}
+
+.order_item .title {
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+}
+
+.order_item .weui-flex__item {
+    text-align: right;
+    font-size: 14px;
+    color: #333;
+}
+
+.order_item .weui-flex__item a {
+   color: #64A6FF;
+    font-size: 14px;
+}
+.order_item .weui-flex__item strong{
+    font-size: 16px;
+    font-weight: bold;
+}
+.tk_suc,.tk_ing {
+    border: 1px solid #aaa;
+    color: #aaa;
+    font-size: 14px;
+    padding: 2px 5px;
+    border-radius: 15px;
+}
+.tk_ing{
+    color: #64A6FF;
+    border-color: #64A6FF;
+}
+.qhxx .title{
+    font-weight: normal;
+}
+.kbtn{
+    font-size: 14px;
+    padding: 5px 10px;
+    border: 0;
+    border-radius: 5px;
+    background: #eee;
+}
+.weui-cells:after{
+    border: none;
+}

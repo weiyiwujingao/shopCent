@@ -1,0 +1,4 @@
+[1;31m [ERROR] [2019-06-06 14:25:23]127.0.0.1|15776 |errorMsg:RechargeOrder list:1,reason:支付方式有误！,userMsg:支付方式有误！,line:68[0m 
+[1;31m [ERROR] [2019-06-06 14:25:31]127.0.0.1|15776 |errorMsg:RechargeOrder list:1,reason:支付方式有误！,userMsg:支付方式有误！,line:68[0m 
+[1;31m [ERROR] [2019-06-06 14:31:45]127.0.0.1|15776 |errorMsg:RechargeOrder list:1,reason:支付方式有误！,userMsg:支付方式有误！,line:68[0m 
+[1;31m [ERROR] [2019-06-06 16:08:43]127.0.0.1|15776 |errorMsg:RechargeOrder list:1,reason:提交预支付失败！,userMsg:提交预支付失败！,line:60[0m 

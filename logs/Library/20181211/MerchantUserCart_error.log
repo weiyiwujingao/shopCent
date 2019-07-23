@@ -1,0 +1,3 @@
+[1;31m [ERROR] [2018-12-11 16:52:06]127.0.0.1|946152 |errorMsg:No query results for model [App\Models\Cart].,userMsg:No query results for model [App\Models\Cart].,line:210[0m 
+[1;31m [ERROR] [2018-12-11 16:52:40]127.0.0.1|946152 |errorMsg:No query results for model [App\Models\Cart].,userMsg:No query results for model [App\Models\Cart].,line:210[0m 
+[1;31m [ERROR] [2018-12-11 16:52:59]127.0.0.1|946152 |errorMsg:No query results for model [App\Models\Cart].,userMsg:No query results for model [App\Models\Cart].,line:210[0m 

@@ -1,0 +1,1 @@
+[INFO] [2019-06-06 16:08:43]127.0.0.1|15776 http return fail.message:提交预支付失败！,code:0,url:http://xfjb.api.dev.com/mctApi/payment/recharge/pay,accessToken:,param:{"pay_id":"1","order_sn":"2019060650907","type":"shopping","userInfo":{"uid":9641,"name":"13338550457","ctime":1559015985},"uid":9641} 

@@ -1,0 +1,62 @@
+.header .back {
+    visibility: hidden;
+}
+
+.wrap {
+    margin-top: 60px;
+}
+
+.my_mess {
+    background: #64a6ffb5;
+    background: linear-gradient(to right, #64a6ffb5, #8abcffb8);
+    padding: 20px 10px;
+    background-repeat: no-repeat;
+}
+
+.my_mess img {
+    max-width: 90%;
+}
+
+.my_mess .text {
+    flex: 2;
+    font-size: 0.92rem;
+    padding: 5px;
+    color: #444;
+}
+
+.my_mess .text .label {
+    color: #333;
+}
+
+.my_mess .text .weui-flex {
+    margin-bottom: 5px;
+}
+
+.bdcells .iconfont {
+    font-size: 1.3rem;
+    color: #aaa;
+    margin-right: 10px;
+}
+
+.bdcells .active {
+    color: #09bb07;
+}
+
+.bdcells {
+    margin-top: 10px;
+}
+
+.bdcells p {
+    color: #444;
+    font-size: 0.96rem;
+}
+
+@media screen and (max-device-width: 350px) {
+    .my_mess {
+        display: block;
+    }
+
+    .my_mess .logo {
+        text-align: center;
+    }
+}

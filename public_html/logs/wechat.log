@@ -1,0 +1,172 @@
+2019-05-29 17:32:32 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"1xXAe877kctmUm1u"},"mch_id=1357451202&nonce_str=1xXAe877kctmUm1u&"] 
+
+2019-05-29 17:32:32 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"1xXAe877kctmUm1u"},"c160d04230eb46219a664d98421b5da6"] 
+
+2019-05-29 17:32:32 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"1xXAe877kctmUm1u","sign":"C160D04230EB46219A664D98421B5DA6"}] 
+
+2019-05-29 17:36:35 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"jFs0F6Uvior7FdNP"},"mch_id=1357451202&nonce_str=jFs0F6Uvior7FdNP&"] 
+
+2019-05-29 17:36:35 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"jFs0F6Uvior7FdNP"},"52f00568aa6f61b294d089f5fc1fa904"] 
+
+2019-05-29 17:36:35 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"jFs0F6Uvior7FdNP","sign":"52F00568AA6F61B294D089F5FC1FA904"}] 
+
+2019-05-29 17:46:09 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"5VDtnN1GixlN74ai"},"mch_id=1357451202&nonce_str=5VDtnN1GixlN74ai&"] 
+
+2019-05-29 17:46:09 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"5VDtnN1GixlN74ai"},"c4f95209f2fd7cf39285c06131c1f339"] 
+
+2019-05-29 17:46:09 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"5VDtnN1GixlN74ai","sign":"C4F95209F2FD7CF39285C06131C1F339"}] 
+
+2019-05-29 17:46:42 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"p10anWwTPYy1x0qX"},"mch_id=1357451202&nonce_str=p10anWwTPYy1x0qX&"] 
+
+2019-05-29 17:46:42 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"p10anWwTPYy1x0qX"},"73031d695b8cf55b1cf514a676e90787"] 
+
+2019-05-29 17:46:42 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"p10anWwTPYy1x0qX","sign":"73031D695B8CF55B1CF514A676E90787"}] 
+
+2019-05-29 17:46:49 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"7HkXX3HZeb714nrb"},"mch_id=1357451202&nonce_str=7HkXX3HZeb714nrb&"] 
+
+2019-05-29 17:46:49 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"7HkXX3HZeb714nrb"},"a1c3625f7393d4958091b9e2815a6256"] 
+
+2019-05-29 17:46:49 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"7HkXX3HZeb714nrb","sign":"A1C3625F7393D4958091B9E2815A6256"}] 
+
+2019-05-29 17:48:30 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"U8A5jYyCb4YEhavu"},"mch_id=1357451202&nonce_str=U8A5jYyCb4YEhavu&"] 
+
+2019-05-29 17:48:30 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"U8A5jYyCb4YEhavu"},"ba6a7412a58a5ea492aa92f774e5e8db"] 
+
+2019-05-29 17:48:30 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"U8A5jYyCb4YEhavu","sign":"BA6A7412A58A5EA492AA92F774E5E8DB"}] 
+
+2019-05-29 17:57:01 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"yArCMPvs1pT1vhNg"},"mch_id=1357451202&nonce_str=yArCMPvs1pT1vhNg&"] 
+
+2019-05-29 17:57:01 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"yArCMPvs1pT1vhNg"},"6868cfef87769b3550e6a3eb1d49b783"] 
+
+2019-05-29 17:57:01 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"yArCMPvs1pT1vhNg","sign":"6868CFEF87769B3550E6A3EB1D49B783"}] 
+
+2019-05-29 18:55:03 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"LhyAy84KX9glmiHT"},"mch_id=1357451202&nonce_str=LhyAy84KX9glmiHT&"] 
+
+2019-05-29 18:55:03 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"LhyAy84KX9glmiHT"},"41ed24ae8aec67a852457d79d78281ba"] 
+
+2019-05-29 18:55:03 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"LhyAy84KX9glmiHT","sign":"41ED24AE8AEC67A852457D79D78281BA"}] 
+
+2019-05-29 19:08:02 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"M2MrWhFZj286fMjD"},"mch_id=1357451202&nonce_str=M2MrWhFZj286fMjD&"] 
+
+2019-05-29 19:08:02 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"M2MrWhFZj286fMjD"},"4f7a3696971e11bb2c8133549315117f"] 
+
+2019-05-29 19:08:02 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"M2MrWhFZj286fMjD","sign":"4F7A3696971E11BB2C8133549315117F"}] 
+
+2019-05-29 19:08:33 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"k2AH7KQfyiACTv4N"},"mch_id=1357451202&nonce_str=k2AH7KQfyiACTv4N&"] 
+
+2019-05-29 19:08:33 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"k2AH7KQfyiACTv4N"},"4ce79c58d939ed8f90e52f387c81a1f8"] 
+
+2019-05-29 19:08:33 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"k2AH7KQfyiACTv4N","sign":"4CE79C58D939ED8F90E52F387C81A1F8"}] 
+
+2019-05-29 19:17:53 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"wVGzhfUzOczzPhVo"},"mch_id=1357451202&nonce_str=wVGzhfUzOczzPhVo&"] 
+
+2019-05-29 19:17:53 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"wVGzhfUzOczzPhVo"},"5f435e90f0196d8684145dd3d3bc1884"] 
+
+2019-05-29 19:17:53 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"wVGzhfUzOczzPhVo","sign":"5F435E90F0196D8684145DD3D3BC1884"}] 
+
+2019-05-29 19:18:35 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"Irihmfvm3ayICmPR"},"mch_id=1357451202&nonce_str=Irihmfvm3ayICmPR&"] 
+
+2019-05-29 19:18:35 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"Irihmfvm3ayICmPR"},"1a29b1412552f1dd63c8bbd646043028"] 
+
+2019-05-29 19:18:35 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"Irihmfvm3ayICmPR","sign":"1A29B1412552F1DD63C8BBD646043028"}] 
+
+2019-05-29 19:23:29 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"bzuQ1cmjdCEeJXwe"},"mch_id=1357451202&nonce_str=bzuQ1cmjdCEeJXwe&"] 
+
+2019-05-29 19:23:29 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"bzuQ1cmjdCEeJXwe"},"5534b9d2541d50aa5e438acb55f71777"] 
+
+2019-05-29 19:23:29 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"bzuQ1cmjdCEeJXwe","sign":"5534B9D2541D50AA5E438ACB55F71777"}] 
+
+2019-05-29 19:24:40 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"IX9SHJz61Lr8GhrG"},"mch_id=1357451202&nonce_str=IX9SHJz61Lr8GhrG&"] 
+
+2019-05-29 19:24:40 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"IX9SHJz61Lr8GhrG"},"ad13f3be31040e7c4a3748627c95205a"] 
+
+2019-05-29 19:24:40 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"IX9SHJz61Lr8GhrG","sign":"AD13F3BE31040E7C4A3748627C95205A"}] 
+
+2019-05-29 19:25:15 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"uEyXElo9uXZ3lOkU"},"mch_id=1357451202&nonce_str=uEyXElo9uXZ3lOkU&"] 
+
+2019-05-29 19:25:15 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"uEyXElo9uXZ3lOkU"},"41c280c4ad48c5890a3bd0f891582bd4"] 
+
+2019-05-29 19:33:04 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"qxFR7wZS4YwKJjej"},"mch_id=1357451202&nonce_str=qxFR7wZS4YwKJjej&"] 
+
+2019-05-29 19:33:04 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"qxFR7wZS4YwKJjej"},"d0be9fb06c96d48ced0f1a914fd01b96"] 
+
+2019-05-29 19:33:04 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"qxFR7wZS4YwKJjej","sign":"D0BE9FB06C96D48CED0F1A914FD01B96"}] 
+
+2019-05-29 19:33:32 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"HV9e1I95PEl8WpqX"},"mch_id=1357451202&nonce_str=HV9e1I95PEl8WpqX&"] 
+
+2019-05-29 19:33:32 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"HV9e1I95PEl8WpqX"},"40de3e810d8c477c549961b8f9c2605a"] 
+
+2019-05-29 19:33:32 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"HV9e1I95PEl8WpqX","sign":"40DE3E810D8C477C549961B8F9C2605A"}] 
+
+2019-05-29 19:33:47 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"ENgQuPNeSFi2xvmC"},"mch_id=1357451202&nonce_str=ENgQuPNeSFi2xvmC&"] 
+
+2019-05-29 19:33:47 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"ENgQuPNeSFi2xvmC"},"1e7d1623ede00051be483830828c8738"] 
+
+2019-05-29 19:33:47 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"ENgQuPNeSFi2xvmC","sign":"1E7D1623EDE00051BE483830828C8738"}] 
+
+2019-05-29 19:33:53 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"u8psOzVTW6IHJPVE"},"mch_id=1357451202&nonce_str=u8psOzVTW6IHJPVE&"] 
+
+2019-05-29 19:33:53 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"u8psOzVTW6IHJPVE"},"37a2385e006fec0c04bf24835b5a7374"] 
+
+2019-05-29 19:33:53 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"u8psOzVTW6IHJPVE","sign":"37A2385E006FEC0C04BF24835B5A7374"}] 
+
+2019-05-29 19:34:25 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"ppF2of4HSqPpLSab"},"mch_id=1357451202&nonce_str=ppF2of4HSqPpLSab&"] 
+
+2019-05-29 19:34:25 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"ppF2of4HSqPpLSab"},"847dfefb0c2ef5f21127b81b266361dc"] 
+
+2019-05-29 19:34:25 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"ppF2of4HSqPpLSab","sign":"847DFEFB0C2EF5F21127B81B266361DC"}] 
+
+2019-05-29 19:35:25 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"1i9dcZ6nBYrHkHnk"},"mch_id=1357451202&nonce_str=1i9dcZ6nBYrHkHnk&"] 
+
+2019-05-29 19:35:25 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"1i9dcZ6nBYrHkHnk"},"e3047e53ec741b536595c1168ecb1423"] 
+
+2019-05-29 19:35:25 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"1i9dcZ6nBYrHkHnk","sign":"E3047E53EC741B536595C1168ECB1423"}] 
+
+2019-05-29 19:35:44 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"HX1xFCMQvpVhDFqE"},"mch_id=1357451202&nonce_str=HX1xFCMQvpVhDFqE&"] 
+
+2019-05-29 19:35:44 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"HX1xFCMQvpVhDFqE"},"554a63df7e68411e1174d058c552104a"] 
+
+2019-05-29 19:35:44 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"HX1xFCMQvpVhDFqE","sign":"554A63DF7E68411E1174D058C552104A"}] 
+
+2019-05-29 19:35:55 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"TRWlBek80zDoPbdr"},"mch_id=1357451202&nonce_str=TRWlBek80zDoPbdr&"] 
+
+2019-05-29 19:35:55 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"TRWlBek80zDoPbdr"},"8f38fdedc74f74668d443ad276d8006e"] 
+
+2019-05-29 19:35:55 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"TRWlBek80zDoPbdr","sign":"8F38FDEDC74F74668D443AD276D8006E"}] 
+
+2019-05-29 19:38:07 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"thSD28rMFXo5p30w"},"mch_id=1357451202&nonce_str=thSD28rMFXo5p30w&"] 
+
+2019-05-29 19:38:07 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"thSD28rMFXo5p30w"},"3accde4700c6cfd0f558d803b3c689b7"] 
+
+2019-05-29 19:38:07 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"thSD28rMFXo5p30w","sign":"3ACCDE4700C6CFD0F558D803B3C689B7"}] 
+
+2019-05-29 19:44:59 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"Lm31fNuBRJn4seT2"},"mch_id=1357451202&nonce_str=Lm31fNuBRJn4seT2&"] 
+
+2019-05-29 19:44:59 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"Lm31fNuBRJn4seT2"},"ad07540b1dc6ddc8ed20ed4039c5b640"] 
+
+2019-05-29 19:44:59 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"Lm31fNuBRJn4seT2","sign":"AD07540B1DC6DDC8ED20ED4039C5B640"}] 
+
+2019-05-29 19:46:03 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"bXjE5AiRxSI7L1Kq"},"mch_id=1357451202&nonce_str=bXjE5AiRxSI7L1Kq&"] 
+
+2019-05-29 19:46:03 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"bXjE5AiRxSI7L1Kq"},"59221fc9fe31a7e8ad634b7259ce5778"] 
+
+2019-05-29 19:46:03 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"bXjE5AiRxSI7L1Kq","sign":"59221FC9FE31A7E8AD634B7259CE5778"}] 
+
+2019-05-29 19:49:58 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"vpzS4y7Rvo0suSQC"},"mch_id=1357451202&nonce_str=vpzS4y7Rvo0suSQC&"] 
+
+2019-05-29 19:49:58 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"vpzS4y7Rvo0suSQC"},"de73e216b11f24671cfacb5f1ff90933"] 
+
+2019-05-29 19:49:58 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"vpzS4y7Rvo0suSQC","sign":"DE73E216B11F24671CFACB5F1FF90933"}] 
+
+2019-05-29 19:52:28 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"wpG4n1AH8TUXOTHx"},"mch_id=1357451202&nonce_str=wpG4n1AH8TUXOTHx&"] 
+
+2019-05-29 19:52:28 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"wpG4n1AH8TUXOTHx"},"546aa0a3a6b37d4dfc8d21ecd3781158"] 
+
+2019-05-29 19:52:28 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"wpG4n1AH8TUXOTHx","sign":"546AA0A3A6B37D4DFC8D21ECD3781158"}] 
+
+2019-05-30 10:03:18 > yansongda.pay.DEBUG > Wechat Generate Sign Content Before Trim [{"mch_id":"1357451202","nonce_str":"4wpwcrMdeciK05qC"},"mch_id=1357451202&nonce_str=4wpwcrMdeciK05qC&"] 
+
+2019-05-30 10:03:18 > yansongda.pay.DEBUG > Wechat Generate Sign Before UPPER [{"mch_id":"1357451202","nonce_str":"4wpwcrMdeciK05qC"},"cc5ec0bb350848b5b8a5d9d8ccf97c01"] 
+
+2019-05-30 10:03:18 > yansongda.pay.DEBUG > Requesting To Wechat Api ["https://api.mch.weixin.qq.com/sandboxnew/pay/getsignkey",{"mch_id":"1357451202","nonce_str":"4wpwcrMdeciK05qC","sign":"CC5EC0BB350848B5B8A5D9D8CCF97C01"}] 
+

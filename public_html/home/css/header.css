@@ -1,0 +1,39 @@
+.header {
+    font-size: 1rem;
+    background: #fff;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 100;
+    height: 40px;
+    padding: 5px 0;
+    border-bottom: 1px solid #eee;
+    max-width: 800px;
+    left: 0;
+    margin: 0 auto;
+}
+
+.header .weui-flex__item {
+    text-align: center;
+    line-height: 2.2rem;
+    font-size: 1.2rem;
+}
+
+.header .back {
+    width: 15%;
+    text-align: center;
+}
+
+.header .iconfont {
+    font-size: 1.2rem;
+    line-height: 2;
+    color: #aaa;
+}
+
+.header .right {
+    width: 15%;
+    text-align: center;
+    line-height: 2;
+    position: relative;
+}

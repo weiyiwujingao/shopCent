@@ -1,0 +1,6 @@
+[1;31m [ERROR] [2019-05-23 16:19:18]127.0.0.1|18136 |errorMsg:Order detail:reason:Invalid argument supplied for foreach(),userMsg:Invalid argument supplied for foreach(),line:506[0m 
+[1;31m [ERROR] [2019-05-23 16:23:17]127.0.0.1|18136 |errorMsg:Order cancelOrder:reason:Illegal string offset 'goods_id',userMsg:Illegal string offset 'goods_id',line:506[0m 
+[1;31m [ERROR] [2019-05-23 16:33:55]127.0.0.1|18136 |errorMsg:Order cancelOrder:reason:已取消订单,无需反复提交！,userMsg:已取消订单,无需反复提交！,line:510[0m 
+[1;31m [ERROR] [2019-05-23 16:46:25]127.0.0.1|18136 |errorMsg:Order cancelOrder:reason:已取消订单,无需反复提交！,userMsg:已取消订单,无需反复提交！,line:510[0m 
+[1;31m [ERROR] [2019-05-23 16:46:27]127.0.0.1|18136 |errorMsg:Order cancelOrder:reason:已取消订单,无需反复提交！,userMsg:已取消订单,无需反复提交！,line:510[0m 
+[1;31m [ERROR] [2019-05-23 19:09:56]127.0.0.1|18136 |errorMsg:Order cancelOrder:reason:已取消订单,无需反复提交！,userMsg:已取消订单,无需反复提交！,line:510[0m 

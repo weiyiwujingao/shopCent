@@ -1,0 +1,2 @@
+[1;31m [ERROR] [2019-02-11 11:31:28]127.0.0.1|9072 |errorMsg:login get user fail.loginInfo:{"mobile":"13338550457","code":"425487"},reason:验证码超时！,userMsg:验证码超时！,line:205[0m 
+[1;31m [ERROR] [2019-02-11 16:41:38]127.0.0.1|9072 |errorMsg:getUserExistBycode:13338550457,reason:验证码过期！,userMsg:验证码过期！,line:602[0m 

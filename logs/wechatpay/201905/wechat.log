@@ -1,0 +1,11 @@
+[2019-05-30 16:36:27] NULL.NOTICE: >>>>>>>>
+POST /tools/authcodetoopenid HTTP/1.1
+Content-Length: 188
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.13
+Host: api.mch.weixin.qq.com
+
+<xml><mch_id>1357451202</mch_id><nonce_str><![CDATA[5cef960b0b71b]]></nonce_str><appid><![CDATA[wx53906a313e1ef8ba]]></appid><sign><![CDATA[9C0C9E844663F7AF5EFB9B1158981574]]></sign></xml>
+<<<<<<<<
+
+--------
+cURL error 60: SSL certificate problem: unable to get local issuer certificate (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)  

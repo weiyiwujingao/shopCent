@@ -1,0 +1,3 @@
+[1;31m [ERROR] [2019-01-15 08:56:58]127.0.0.1|2164 |errorMsg:UserAddress getlist:9641,reason:Call to undefined relationship [list] on model [App\Models\ArticleCat].,userMsg:Call to undefined relationship [list] on model [App\Models\ArticleCat].,line:47[0m 
+[1;31m [ERROR] [2019-01-15 09:15:12]127.0.0.1|2164 |errorMsg:UserAddress getlist:9641,reason:mb_strpos() expects parameter 1 to be string, array given,userMsg:mb_strpos() expects parameter 1 to be string, array given,line:47[0m 
+[1;31m [ERROR] [2019-01-15 09:16:32]127.0.0.1|2164 |errorMsg:UserAddress getlist:9641,reason:mb_strpos() expects parameter 1 to be string, array given,userMsg:mb_strpos() expects parameter 1 to be string, array given,line:47[0m 
